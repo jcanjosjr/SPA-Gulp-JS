@@ -1,6 +1,8 @@
 <h1 align="center">Simple Page Application.</h1>
 <p align="center">:snowflake: Fazendo uma SPA com JavaScript e Gulp!</p>
 
+Uma SPA com recursos do Gulp, construindo um build simples, porém com diversas incompatibilidades de versões, que me forçaram a aprender sobre gerenciamento de pacotes, e trabalhar com alterações entre versões de várias bibliotecas para conseguir fazer o projeto subir.
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
