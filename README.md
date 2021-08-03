@@ -11,4 +11,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Gulp v4.0.2](https://gulpjs.com/)
 - [Babel v6.26.3](https://babeljs.io/)
 - [SASS v1.37.2](https://sass-lang.com/documentation/js-api)
-- [ASDF](https://asdf-vm.com/)
+- [asdf](https://asdf-vm.com/)
