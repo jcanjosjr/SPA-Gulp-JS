@@ -1,5 +1,5 @@
 <h1 align="center">Simple Page Application.</h1>
-<p align="center">:snowflake: Fazendo um SPA com JavaScript!</p>
+<p align="center">:snowflake: Fazendo uma SPA com JavaScript e Gulp!</p>
 
 ### 🛠 Tecnologias
 
